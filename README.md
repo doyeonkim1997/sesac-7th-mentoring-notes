@@ -1,0 +1,1 @@
+# sesac-7th-mentoring-notes

@@ -13,8 +13,8 @@
 | 2025-08-30 | React 리렌더링         | [노트 보기](./2025-08-30-react-rerendering.md)          |
 | 2025-08-31 | 가상 DOM vs 실제 DOM   | [노트 보기](./2025-08-31-virtual-dom-vs-real-dom.md)    |
 | 2025-09-01 | 얕은 비교 vs 깊은 비교 | [노트 보기](./2025-09-01-shallow-vs-deep-comparison.md) |
-| 2025-09-02 |  | [노트 보기](./2025-09-01-shallow-vs-deep-comparison.md) |
-| 2025-09-03 |  | [노트 보기](./2025-09-01-shallow-vs-deep-comparison.md) |
+| 2025-09-02 | React 이벤트           | [노트 보기](./2025-09-02-react-event.md)                |
+| 2025-09-03 | useEffect              | [노트 보기](./2025-09-03-useeffect.md)                  |
 
 ---
 

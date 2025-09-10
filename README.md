@@ -15,6 +15,8 @@
 | 2025-09-01 | 얕은 비교 vs 깊은 비교 | [노트 보기](./2025-09-01-shallow-vs-deep-comparison.md) |
 | 2025-09-02 | React 이벤트           | [노트 보기](./2025-09-02-react-event-handling.md)       |
 | 2025-09-03 | useEffect              | [노트 보기](./2025-09-03-useEffect-hook.md)             |
+| 2025-09-06 | useEffect              | [노트 보기](./2025-09-03-useEffect-hook.md)             |
+| 2025-09-06 | 자바스크립트 비동기 처리 | [노트 보기](./2025-09-03-useEffect-hook.md)             |
 
 ---
 
